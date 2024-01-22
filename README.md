@@ -1,7 +1,7 @@
 # nnrv_bible
 Nepali Bible in javascript format
 
-Verses with red color are wrapped inside <Red></Red>
+Verses with red color are wrapped inside {< Red>< /Red>}
 
 
 
