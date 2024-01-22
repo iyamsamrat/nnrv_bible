@@ -1,78 +1,149 @@
 # nnrv_bible
 Nepali Bible in javascript format
+
 Verses with red color are wrapped inside <Red></Red>
 
 
+
 Filename Identification according to bible Chapters:
+
   GEN.json - Genesis - उत्‍पत्ति
+  
   EXO.json - Exodus - प्रस्‍थान
+  
   LEV.json - Leviticus - लेवीहरू
+  
   NUM.json - Numbers - गन्ती
+  
   DEU.json - Deuteronomy - व्यवस्था
+  
   JOS.json - Joshua - यहोशू
+  
   JDG.json - Judges - न्यायकर्ताहरू
+
   RUT.json - Ruth - रूथ
+  
   1SA.json - 1 Samuel - १ शमूएल
+  
   2SA.json - 2 Samuel - २ शमूएल
+  
   1KI.json - 1 Kings - १ राजाहरू
+  
   2Ki.json - 2 Kings - २ राजाहरू
+  
   1CH.json - 1 Chronicles - १ इतिहास
+  
   2CH.json - 2 Chronicles - २ इतिहास
+
   EZR.json - Ezra - एज्रा
+  
   NEH.json - Nehemiah - नहेम्‍याह
+  
   EST.json - Esther - एस्‍तर
+  
   JOB.json - Job - अय्‍यूब
+  
   PSA.json - Psalms - भजनसंग्रह
+  
   PRO.json - Proverbs - हितोपदेश
+  
   ECC.json - Ecclesiastes - उपदेशक
+  
   SNG.json - Song of songs - श्रेष्‍ठगीत
+  
   ISA.json - Isaiah - यशैया
+  
   JER.json - Jeremiah - यर्मिया
+  
   LAM.json - Lamentations - विलाप
+  
   EZK.json - Ezekiel - इजकिएल
+  
   DAN.json - Daniel - दानिएल
+  
   HOS.json - Hosea - होशे
+  
   JOL.json - Joel - योएल
+  
   AMO.json - Amos - आमोस
+  
   OBA.json - Obadiah - ओबदिया
+  
   JON.json - Jonah - योना
+  
   MIC.json - Micah - मीका
+  
   NAM.json - Nahum - नहूम
+  
   HAB.json - HabakkuK - हबकूक
+  
   ZEP.json - Zephaniah - सपन्‍याह
+  
   HAG.json - Haggai - हाग्‍गै
+  
   ZEC.json - Zechariah - जकरिया
+  
   MAL.json - Malachi - मलाकी
+  
   MAT.json - Matthew - मत्ती
+  
   MRK.json - Mark - मर्कूस
+  
   LUK.json - Luke - लूका
+  
   JHN.json - John - यूहन्‍ना
+  
   ACT.json - Acts - प्रेरित
+  
   ROM.json - Romans - रोमी
+  
   1CO.json - 1 Corinthians - १ कोरिन्थी
+  
   2CO.json - 2 Corinthians - २ कोरिन्थी
+  
   GAL.json - Galatians - गलाती
+  
   EPH.json - Ephesians - एफिसी
+  
   PHP.json - Philippians - फिलिप्पी
+  
   COL.json - Colossians - कलस्सी
+  
   1TH.json - 1 Thessalonians - १ थेसलोनिकी
+  
   2TH.json - 2 Thessalonians - २ थेसलोनिकी
+  
   1TI.json - 1 Timothy - १ तिमोथी
+  
   2TI.json - 2 Timothy - २ तिमोथी
+  
   TIT.json - Titus - तीतस
+  
   PHM.json - Philemon - फिलेमोन
+  
   HEB.json - Hebrews - हिब्रू
+  
   JAS.json - James - याकूब
+  
   1PE.json - 1 Peter - १ पत्रुस
+  
   2PE.json - 2 Peter - २ पत्रुस
+  
   1JN.json - 1 John - १ यूहन्‍ना
+  
   2JN.json - 2 John - २ यूहन्‍ना
+  
   3JN.json - 3 John - ३ यूहन्‍ना
+  
   JUD.json - Jude -‍ यहूदा
+  
   REV.json - Revelation - प्रकाश
 
+
+  
+
 You can use similar structure below to navigate to specific chapters with their chapter names:
-[
+
     {"filename": "GEN.json", "englishName": "Genesis", "nepaliName": "उत्‍पत्ति"},
     {"filename": "EXO.json", "englishName": "Exodus", "nepaliName": "प्रस्‍थान"},
     {"filename": "LEV.json", "englishName": "Leviticus", "nepaliName": "लेवीहरू"},
@@ -139,7 +210,6 @@ You can use similar structure below to navigate to specific chapters with their 
     {"filename": "3JN.json", "englishName": "3 John", "nepaliName": "३ यूहन्‍ना"},
     {"filename": "JUD.json", "englishName": "Jude", "nepaliName": "यहूदा"},
     {"filename": "REV.json", "englishName": "Revelation", "nepaliName": "प्रकाश"}
-  ]
-
+    
 
 Feel free to use them.
