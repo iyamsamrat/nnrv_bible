@@ -1,5 +1,6 @@
 # nnrv_bible
 Nepali Bible in javascript format
+Verses with red color are wrapped inside <Red></Red>
 
 
 Filename Identification according to bible Chapters:
